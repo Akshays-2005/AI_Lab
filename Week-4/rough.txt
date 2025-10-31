@@ -1,2 +1,0 @@
-Hill climbing
-Simulated annealing
