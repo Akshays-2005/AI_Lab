@@ -50,3 +50,4 @@ truth_table(KB_expr, alpha_expr, symbols)
 result = entails(KB_expr, alpha_expr, symbols)
 print("\nResult:")
 print(" KB entails α" if result else " KB does NOT entail α")
+
